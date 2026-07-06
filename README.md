@@ -48,8 +48,8 @@ Running it locally
 Clone the repo
 
 
-bash   git clone https://github.com/YOUR_USERNAME/lab-management-system.git
-   cd lab-management-system
+bash   git clone https://github.com/trasvi07/lab-system
+   cd lab-system
 
 
 Install dependencies for both frontend and backend
